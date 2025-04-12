@@ -1,0 +1,15 @@
+{"key":"替换",
+"name":"xxxxxx",
+"type":3,
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"filterable": 1,
+//"api":"./吴承恩/appys.js","ext":{"host":"xxx","*":"xxx"}
+//"api":"./xxxxxx/drpy2.min.js","ext":"./xxxxxx/替换.js"
+//"api":"csp_XBPQ","ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","首页":"0","分类":"艺——术——鉴——赏——修——心——养——性$lunli","分类url":"xxxxxx"}},
+//"api":"csp_XBPQ","ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","首页":"0","分类": "韩国&日本&香港&大陆&台湾","分类值": "*","分类url":"xxxxxx"}},
+//
+"api":"csp_XBPQ","ext":  "./xxxxxx/替换.json"
+},
+
