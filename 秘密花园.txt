@@ -6,24 +6,20 @@ Zoom tv,http://185.236.229.62:9981/play/a02a#http://178.219.128.68:64889//ZOOMTV
 チャンネルNECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 动物世界,http://v2.catcast.tv/content/40546/index.m3u8
 Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
-INDIEFILM,http://m6z.cn/5GCB1h#http://suo.im/aD7Ry
-私房写真,http://m6z.cn/5VECGB#https://luong.utako.moe/pigoo/index.m3u8
-3,https://live.iptvxxx.net/siptarskaGOVNA.m3u8
+私房写真,http://a.u6v.cn/6xcd6u#https://luong.utako.moe/pigoo/index.m3u8
+3,http://m6z.cn/6pzB8x#https://live.iptvxxx.net/siptarskaGOVNA.m3u8
 🔞台湾频道,#genre#
-松视1,http://u3v.cn/5VEYzx
-松视3,http://u3v.cn/5O8LuQ
-香蕉,http://m6z.cn/5VEYzn
-e,http://m6z.cn/5z1J9J
-k,http://m6z.cn/6xbpLi
-彩虹电影,http://m6z.cn/6idbMy
-惊艳,http://m6z.cn/63bbE4
-潘多拉,http://m6z.cn/6aGYHR
-happy,http://m6z.cn/5O8LuG
-香蕉,http://104.194.10.200:25461/live/225292985018/964311166986/4.m3u8?token=SRVZVERZGl8UUlBQD1hSVFVTUgJRWVJXBwUEDlcBXQdRBwJXBlAKBlASGhZFTRdVVl1rWwYaXAYbE0FLBERmClYVCxcDABpJFERfWVMbXwAbEkRbBhpcEAEBAQ5DGhsGSkNUR1lQVDpSVUBdVVxHCllFWF5OGglcaFVRVQBYXUEIFQEXGxNRFkYSDFpDVQkcFVJdRhBZElcVCxYKUQMKQR4VUlpCX0wXTxIMWkNVCRwVVUxGB1YVW1hfFgJDWwoWChUdF15CZxdTQ0JGU1gIVUUSDhBSGkoQWlBMZwJZVw1XVEVcWF9LRwwSDw0PAEccFV1bXAtMCUBoQV1cQwwbUAIGAgIVTA==
-潘多拉,http://104.194.10.200:25461/live/225292985018/964311166986/3.m3u8?token=SRVZVERZGl8UUlBQD1hSVFVTUgJRWVJXBwUEDlcBXQdRBwJXBlAKBlASGhZFTRdVVl1rWwYaXAYbE0FLBERmClYVCxcDABpJFERfWVMbXwAbEkRbBhpcEAEBAQ5DGhsGSkNUR1lQVDpSVUBdVVxHCllFWF5OGglcaFVRVQBYXUEIFQEXGxNRFkYSDFpDVQkcFVJdRhBZElcVCxYKUQMKQR4VUlpCX0wXTxIMWkNVCRwVVUxGB1YVW1hfFgJDWwoWChUdF15CZxdTQ0JGU1gIVUUSDhBSGkoQWlBMZwJZVw1XVEVcWF9LRwwSDw0PAEccFV1bXAtMCUBoQV1cQwwbUAIGAgIVTA==
-松视2台,http://104.194.10.200:25461/live/225292985018/964311166986/6.m3u8?token=SRVZVERZGl8UUlBQD1hSVFVTUgJRWVJXBwUEDlcBXQdRBwJXBlAKBlASGhZFTRdVVl1rWwYaXAYbE0FLBERmClYVCxcDABpJFERfWVMbXwAbEkRbBhpcEAEBAQ5DGhsGSkNUR1lQVDpSVUBdVVxHCllFWF5OGglcaFVRVQBYXUEIFQEXGxNRFkYSDFpDVQkcFVJdRhBZElcVCxYKUQMKQR4VUlpCX0wXTxIMWkNVCRwVVUxGB1YVW1hfFgJDWwoWChUdF15CZxdTQ0JGU1gIVUUSDhBSGkoQWlBMZwJZVw1XVEVcWF9LRwwSDw0PAEccFV1bXAtMCUBoQV1cQwwbUAIGAgIVTA==
-松视3台,http://104.194.10.200:25461/live/225292985018/964311166986/20205.m3u8?token=SRVZVERZGl8UUlBQD1hSVFVTUgJRWVJXBwUEDlcBXQdRBwJXBlAKBlASGhZFTRdVVl1rWwYaXAYbE0FLBERmClYVCxcDABpJFERfWVMbXwAbEkRbBhpcEAEBAQ5DGhsGSkNUR1lQVDpSVUBdVVxHCllFWF5OGglcaFVRVQBYXUEIFQEXGxNRFkYSDFpDVQkcFVJdRhBZElcVCxYKUQMKQR4VUlpCX0wXTxIMWkNVCRwVVUxGB1YVW1hfFgJDWwoWChUdF15CZxdTQ0JGU1gIVUUSDhBSGkoQWlBMZwJZVw1XVEVcWF9LRwwSDw0PAEccFV1bXAtMCUBoQV1cQwwbUAIGAgIVTA==
-pigoo,https://luong.utako.moe/pigoo/index.m3u8#http://m6z.cn/5VECGB 
+极限电影,http://m6z.cn/5z2wtj
+松视1,http://m6z.cn/5GDoCV
+松视3,http://m6z.cn/5zN90y
+香蕉,http://m6z.cn/5VFM9f
+e,http://m6z.cn/5z2wv5
+k,http://m6z.cn/6xcd6E
+彩虹电影,http://m6z.cn/6i9MXg
+惊艳,http://m6z.cn/63bZdW
+潘多拉,http://m6z.cn/6aDZTt
+happy,http://m6z.cn/5zN8YM
+pigoo,https://luong.utako.moe/pigoo/index.m3u8#http://a.u6v.cn/6xcd6u 
 🔞俄罗斯,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
 femjoy,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6212/index.m3u8
