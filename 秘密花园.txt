@@ -1,4 +1,4 @@
-🔞午夜频道,#genre#
+夜间频道,#genre#
 Zoom tv,http://185.236.229.62:9981/play/a02a#http://178.219.128.68:64889//ZOOMTVHD
 日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
@@ -6,21 +6,22 @@ Zoom tv,http://185.236.229.62:9981/play/a02a#http://178.219.128.68:64889//ZOOMTV
 チャンネルNECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 动物世界,http://v2.catcast.tv/content/40546/index.m3u8
 Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
-私房写真,http://a.u6v.cn/6xcd6u#https://luong.utako.moe/pigoo/index.m3u8
-3,http://m6z.cn/6pzB8x#https://live.iptvxxx.net/siptarskaGOVNA.m3u8
-🔞台湾频道,#genre#
-极限电影,http://m6z.cn/5z2wtj
-松视1,http://m6z.cn/5GDoCV
-松视3,http://m6z.cn/5zN90y
-香蕉,http://m6z.cn/5VFM9f
-e,http://m6z.cn/5z2wv5
-k,http://m6z.cn/6xcd6E
-彩虹电影,http://m6z.cn/6i9MXg
-惊艳,http://m6z.cn/63bZdW
-潘多拉,http://m6z.cn/6aDZTt
-happy,http://m6z.cn/5zN8YM
-pigoo,https://luong.utako.moe/pigoo/index.m3u8#http://a.u6v.cn/6xcd6u 
-🔞俄罗斯,#genre#
+私房写真,https://luong.utako.moe/pigoo/index.m3u8
+3,http://104.194.10.200:25461/live/466400002871/769258274207/1.m3u8?token=SRVZVERZGl8UAQIED19cBgJSBwVaXlUDBFUCClEGDFAFVgZTDwANVwcSGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcDAhpJFERfWVMbXwAbEkRbBhpcEAUGBghXFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwYOVBAbE1ZYRFYRREkUDlhMCVwbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQMFAQUVTA==#https://live.iptvxxx.net/siptarskaGOVNA.m3u8
+台湾频道_47293,#genre#
+pg,http://ali.hlspull.yximgs.com:80/live/b0cc645bcf50e3b99755f683ca7cbc5c.flv
+极限,http://ali.hlspull.yximgs.com:80/live/2198394e6e105b0454e9d273c07867d7.flv
+hap,http://ali.hlspull.yximgs.com:80/live/24ecb193f568af5fffcc8403b43b8845.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/eb428f22349345516e887e55cdcb4f2b.flv
+经验,http://ali.hlspull.yximgs.com:80/live/d8b80736c1e24bcc985a02f80a459e05.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/87410d66946b94b6fbd145f0e9f6efee.flv
+彩虹,http://ali.hlspull.yximgs.com:80/live/411fff554c9e1d92d7c66ef953d108b5.flv
+k,http://ali.hlspull.yximgs.com:80/live/bf2e47c91c0110a68a96f62683010324.flv
+e,http://ali.hlspull.yximgs.com:80/live/06dc04d9f9a0a83af84e2e4c066c4333.flv
+松3,http://ali.hlspull.yximgs.com:80/live/79fa2e18a2f8007a819921ef29c9b2a2.flv
+松1,http://ali.hlspull.yximgs.com:80/live/41f4a6c7df67589985962d84694f1df2.flv
+pigoo,https://luong.utako.moe/pigoo/index.m3u8 
+俄罗斯_47293,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
 femjoy,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6212/index.m3u8
 Кино 18+,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18075/index.m3u8
@@ -1590,7 +1591,7 @@ Hustler TV,http://live.admuspeh.my/8128/index.m3u8?token=4gPHp5ZVYqDAR4oz
 FrenchLover,http://live.admuspeh.my/8393/index.m3u8?token=4gPHp5ZVYqDAR4oz
 CineMan XXX FHD,http://live.admuspeh.my/8868/index.m3u8?token=4gPHp5ZVYqDAR4oz
 CineMan XXX2 FHD,http://live.admuspeh.my/8869/index.m3u8?token=4gPHp5ZVYqDAR4oz
-🔞乌克兰,#genre#
+乌克兰_47293,#genre#
 Blue Hustler TV,http://ua.online24.pm/play/107/6C79C1AAFA64E87/video.m3u8
 Hustler TVHustler TV,http://ua.online24.pm/play/592/6C79C1AAFA64E87/video.m3u8
 PlayboyPlayboy,http://ua.online24.pm/play/242/6C79C1AAFA64E87/video.m3u8
@@ -1632,7 +1633,7 @@ CineManExExEx TWOCineManExExEx TWO,http://ua.online24.pm/play/13021/6C79C1AAFA64
 Clarity4K Angel XXXClarity4K Angel XXX,http://ua.online24.pm/play/4607/6C79C1AAFA64E87/video.m3u8
 Beate UhseBeate Uhse,http://ua.online24.pm/play/685/6C79C1AAFA64E87/video.m3u8
 TVPlay Наше XXX,http://ua.online24.pm/play/1769/6C79C1AAFA64E87/video.m3u8
-🔞频道1,#genre#
+频道1_47293,#genre#
 Big Ass,http://live.redtraffic.xyz/bigass.m3u8
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
@@ -1697,7 +1698,7 @@ supertv,http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
 playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-🔞频道2,#genre#
+频道2_47293,#genre#
 japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 Blue Hustler,http://188.114.73.107:9981/stream/channelid/2006597829?profile=pass
 box,http://206.212.244.71:8080/4wVQA7/625159/159951
@@ -2011,7 +2012,7 @@ PORNBOX TRANS: TRANS EROTICA,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/
  MY PERVY FAMILY,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160020
  MY TINY WISH,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160021
  MYLF,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160022
-🔞频道3,#genre#
+频道3_47293,#genre#
 fhd,http://bccdn.xyz/live/5026071354pw/1576797021/83248.m3u8
 Три Ангела,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8
 彩虹ehttps://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
@@ -2173,7 +2174,7 @@ VERIFIED AMATEURS: TESSA WINTERS,http://tv14s.xyz:8080/WzD7qQ/424962/160096
 VERIFIED AMATEURS: TINNA ANGEL,http://tv14s.xyz:8080/WzD7qQ/424962/160097
 VERIFIED AMATEURS: YINYLEON,http://tv14s.xyz:8080/WzD7qQ/424962/160098
 
-🔞港台情色,#genre#
+港台情色_47293,#genre#
 东北往事之黑道风云二十年11,https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
 东北往事之黑道风云二十年17,https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
 销魂玉,https://hd.ijycnd.com/play/QdJqQ0ob/index.m3u8
@@ -2297,7 +2298,7 @@ VERIFIED AMATEURS: YINYLEON,http://tv14s.xyz:8080/WzD7qQ/424962/160098
 留住真情,https://jpzy01.com/20230106/JDeeat2r/index.m3u8#https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
 淫贱女帝武则天,https://t.sziase.com/movie/20240530e76f52c302c24423/25464884.m3u8
 茶山春色,https://ckzy1com.com/20221217/XitsTZMj/index.m3u8
-🔞亚洲情色,#genre#
+亚洲情色_47293,#genre#
 Asian.34,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21885.mp4
 Asian.35,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21886.mp4
 Asian.36,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21887.mp4
@@ -2395,7 +2396,7 @@ Asian.127,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21978.mp4
 Asian.128,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21979.mp4
 Asian.129,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21980.mp4
 Asian.130,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21981.mp4
-🔞日韩影片,#genre#
+日韩影片_47293,#genre#
 carib363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
 Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
 学生眼中的女老师,https://vip15.play-cdn15.com/20230830/24366_2f5cc427/index.m3u8
@@ -2556,7 +2557,7 @@ heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
-🔞欧美影片,#genre#
+欧美影片_47293,#genre#
 60601,http://60106.vod.adultiptv.net/ph5770c2783ffca/play.m3u8
 Losing Kayden
 Beautiful Cocksucker - Veronika Charm,http://12204.vod.adultiptv.net/ph59e4632689f28/play.m3u8
