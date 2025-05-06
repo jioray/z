@@ -7,19 +7,19 @@ Zoom tv,http://185.236.229.62:9981/play/a02a#http://178.219.128.68:64889//ZOOMTV
 动物世界,http://v2.catcast.tv/content/40546/index.m3u8
 Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
 私房写真,https://luong.utako.moe/pigoo/index.m3u8
-3,http://104.194.10.200:25461/live/466400002871/769258274207/1.m3u8?token=SRVZVERZGl8UAQIED19cBgJSBwVaXlUDBFUCClEGDFAFVgZTDwANVwcSGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcDAhpJFERfWVMbXwAbEkRbBhpcEAUGBghXFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwYOVBAbE1ZYRFYRREkUDlhMCVwbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQMFAQUVTA==#https://live.iptvxxx.net/siptarskaGOVNA.m3u8
+3,http://104.194.10.200:25461/live/675816396616/880670689338/4.m3u8?token=SRVZVERZGl8UVFcBBF9UAgcBUQBQDlBTD1RVDFFQAQVXDgNQVQYMXQASGhZFTRdVVl1rWwYaXAYbE0FLBERmClYVCxcBAxpJFERfWVMbXwAbEkRbBhpcEAUGAAxWFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUAYJWxAbE1ZYRFYRREkUDlhMCVwbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQMFAwcVTA==#https://live.iptvxxx.net/siptarskaGOVNA.m3u8
 台湾频道,#genre#
-pg,http://ali.hlspull.yximgs.com:80/live/b0cc645bcf50e3b99755f683ca7cbc5c.flv
-极限,http://ali.hlspull.yximgs.com:80/live/2198394e6e105b0454e9d273c07867d7.flv
-hap,http://ali.hlspull.yximgs.com:80/live/24ecb193f568af5fffcc8403b43b8845.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/eb428f22349345516e887e55cdcb4f2b.flv
-经验,http://ali.hlspull.yximgs.com:80/live/d8b80736c1e24bcc985a02f80a459e05.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/87410d66946b94b6fbd145f0e9f6efee.flv
-彩虹,http://ali.hlspull.yximgs.com:80/live/411fff554c9e1d92d7c66ef953d108b5.flv
-k,http://ali.hlspull.yximgs.com:80/live/bf2e47c91c0110a68a96f62683010324.flv
-e,http://ali.hlspull.yximgs.com:80/live/06dc04d9f9a0a83af84e2e4c066c4333.flv
-松3,http://ali.hlspull.yximgs.com:80/live/79fa2e18a2f8007a819921ef29c9b2a2.flv
-松1,http://ali.hlspull.yximgs.com:80/live/41f4a6c7df67589985962d84694f1df2.flv
+pigoo,http://ali.hlspull.yximgs.com:80/live/ce22bba8bf5f45a70d5fc3533105065a.flv
+极限,http://ali.hlspull.yximgs.com:80/live/0c2138b994c3aabd39c7e56e3cec0751.flv
+hap,http://ali.hlspull.yximgs.com:80/live/80797c31e8da55ca7dab9481d8e0533e.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/dab860b72c3af3a6995eaad3b5fb73a9.flv
+经验,http://ali.hlspull.yximgs.com:80/live/1211f0e357ae89dad0141ec935cc7b09.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/d6af64921df9fa7786b89e8ce73b6bce.flv
+彩虹,http://ali.hlspull.yximgs.com:80/live/c2aeda5fa7fc8ce2a365ab7e7c6460fb.flv
+k,http://ali.hlspull.yximgs.com:80/live/145b3a9b6d760053ea75063a7fd4bd66.flv
+e,http://ali.hlspull.yximgs.com:80/live/b979872cb8f3e6dd1be07787cc986d32.flv
+松3,http://ali.hlspull.yximgs.com:80/live/4e1342d178340bdce1b0c06d34702fd9.flv
+松1,http://ali.hlspull.yximgs.com:80/live/9388ccefa5d67bd5f7469df27e8eedd3.flv
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
 俄罗斯,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
