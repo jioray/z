@@ -1,6 +1,6 @@
 午夜频道,#genre#
-pigo,http://ali.hlspull.yximgs.com:80/live/75debcbcff0eeb8c3244221395e18251.flv
-极限,http://ali.hlspull.yximgs.com:80/live/6b8c6e7e158058d7df780ba319db59a3.flv
+pigo,http://ali.hlspull.yximgs.com:80/live/3a7494815699393cffade788a6c7e360.flv
+极限,http://ali.hlspull.yximgs.com:80/live/449946aa2639dc0b423a671505e38ec9.flv
 日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
@@ -11,15 +11,15 @@ pigo,http://ali.hlspull.yximgs.com:80/live/75debcbcff0eeb8c3244221395e18251.flv
 Zoom tv,http://185.236.229.62:9981/play/a02a#http://178.219.128.68:64889//ZOOMTVHD
 3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
 台湾频道,#genre#
-hap,http://ali.hlspull.yximgs.com:80/live/ea52597097de7cbd8fe14e2623fa8fbe.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/9c94a0b5928dd0337a659fef7cf47dd7.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/27a625c70f94b1160e86c478ad3e5fba.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/b018218771123b26bb4e379d09f64328.flv
-彩虹,http://ali.hlspull.yximgs.com:80/live/27e3e812c55c9fde0b3b8fd5ace155c6.flv
-k频道,http://ali.hlspull.yximgs.com:80/live/709d409044b5003e602135cd5a8477e7.flv
-e频道,http://ali.hlspull.yximgs.com:80/live/2b702bc0ea50a47e19de5b7821aa813b.flv
-松3,http://ali.hlspull.yximgs.com:80/live/59b2d500a3b6e44dc5070cb7c398abc0.flv
-松1,http://ali.hlspull.yximgs.com:80/live/8f3a3593dc1892d2403282bac285dc3e.flv
+happy,http://ali.hlspull.yximgs.com:80/live/97da14ed80072d4be06ea2559699a77e.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/fa1a8f66a2bb1d4074d11d855f3a93c1.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/c87b596db363fe7644160fb69c3be36a.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/de4e191098b3d9e15c552777b5e84482.flv
+彩虹,http://ali.hlspull.yximgs.com:80/live/52989d5c7d858108879fb89841a5545c.flv
+k频道,http://ali.hlspull.yximgs.com:80/live/ba37b55e99877eefee1273fcf766f777.flv
+e频道,http://ali.hlspull.yximgs.com:80/live/9ff258de53aa252c324d2a9e7b8c110d.flv
+松3,http://ali.hlspull.yximgs.com:80/live/3b143b62996ceb40524195f844cbdb69.flv
+松1,http://ali.hlspull.yximgs.com:80/live/8b1d45fd9417079cc32cd66422c42c2f.flv
 以上为临时源，
 无信号请重启软件，
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
@@ -2995,7 +2995,7 @@ UNDEFINED 13235,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/132
 UNDEFINED 13236,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13236.mp4
 UNDEFINED 13237,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13237.mp4
 UNDEFINED 13238,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13238.mp4
-更多18禁隐藏频道,#genre#
+VIP隐藏频道,#genre#
 打开隐藏频道方法,https://cf005.paopao.video:443/3F4F03C5E12F3B678B04AA3FBB640FDE3773936D#https://cccimg.com/down.php/9d37afc3a7ed2495d01092e84788c51b.mp4#https://cccimg.com/down.php/1a5d1f00013049512dd8bb54dd1c9787.mp4
 频道密码,https://my5353.com/CmG6J#http://xiaohao6.com/wp/down.php/0c01f19cb5f11f18b7c7d0d644781219.mp4#https://cccimg.com/down.php/0c01f19cb5f11f18b7c7d0d644781219.mp4
 连击收藏即可,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
